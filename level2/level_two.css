@@ -1,69 +1,151 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="../../level-style.css" />
-    <link rel="stylesheet" href="level_two.css" />
-    <title>Level 2</title>
-  </head>
-  <body>
-    <h2>Full Year</h2>
-    <div class="months-container">
-      <div class="j">January</div>
-      <div class="f">February</div>
-      <div class="m">March</div>
-      <div class="a">April</div>
-      <div class="may">May</div>
-      <div class="June">June</div>
-      <div class="July">July</div>
-      <div class="august">August</div>
-      <div class="september">September</div>
-      <div class="o">October</div>
-      <div class="november">November</div>
-      <div class="december">December</div>
-    </div>
+.months-container {
+    display: grid;
+    \
 
-    <br />
 
-    <h2>February</h2>
-    <div class="days-container container">
-      <div class="sunday">Sunday</div>
-      <div class="monday">Monday</div>
-      <div class="tuesday">Tuesday</div>
-      <div class="wednesday">Wednesday</div>
-      <div class="thursday">Thursday</div>
-      <div class="friday">Friday</div>
-      <div class="saturday">Saturday</div>
-      <div class="1">1</div>
-      <div class="2">2</div>
-      <div class="3">3</div>
-      <div class="4">4</div>
-      <div class="5">5</div>
-      <div class="6">6</div>
-      <div class="7">7</div>
-      <div class="8">8</div>
-      <div class="9">9</div>
-      <div class="10">10</div>
-      <div class="11">11</div>
-      <div class="12">12</div>
-      <div class="13">13</div>
-      <div class="14">14</div>
-      <div class="15">15</div>
-      <div class="16">16</div>
-      <div class="17">17</div>
-      <div class="18">18</div>
-      <div class="19">19</div>
-      <div class="20">20</div>
-      <div class="21">21</div>
-      <div class="22">22</div>
-      <div class="23">23</div>
-      <div class="24">24</div>
-      <div class="25">25</div>
-      <div class="26">26</div>
-      <div class="27">27</div>
-      <div class="28">28</div>
-    </div>
-  </body>
-</html>
+}
+
+.days-container {
+}
+
+.j {
+
+}
+.f {
+
+}
+.m {
+
+}
+.a {
+
+}
+.may {
+
+}
+.June {
+
+}
+.july {
+
+}
+.august {
+
+}
+.september {
+
+}
+.o {
+
+}
+.november {
+
+}
+.d {
+
+}
+.s {
+
+}
+.m {
+
+}
+.t {
+
+}
+.w {
+
+}
+.t {
+
+}
+.f {
+
+}
+.s {
+
+}
+.1 {
+
+}
+.2 {
+
+}
+.3 {
+
+}
+.4 {
+
+}
+.5 {
+
+}
+.6 {
+
+}
+.7 {
+
+}
+.8 {
+
+}
+.9 {
+
+}
+.10 {
+
+}
+.11 {
+
+}
+.12 {
+
+}
+.13 {
+
+}
+.14 {
+
+}
+.15 {
+
+}
+.16 {
+
+}
+.17 {
+
+}
+.18 {
+
+}
+.19 {
+
+}
+.20 {
+
+}
+.21 {
+
+}
+.22 {
+
+}
+.23 {
+
+}
+.24 {
+
+}
+.25 {
+
+}
+.26 {
+
+}
+.27 {
+
+}
+.28 {
+
+}
